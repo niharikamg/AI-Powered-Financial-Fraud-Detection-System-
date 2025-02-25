@@ -86,10 +86,6 @@ POST /api/fraud/detect
 - 📊 **Visualization Dashboard** for fraud trends  
 - 📈 **Better AI Model** with Deep Learning (LSTM)  
 
----
 
-💡 **Author:** [Your Name]  
-🔗 **GitHub:** [Your GitHub Link]  
-📧 **Contact:** [Your Email]  
 
 🚀 **Like this project? Star it on GitHub!** ⭐  
